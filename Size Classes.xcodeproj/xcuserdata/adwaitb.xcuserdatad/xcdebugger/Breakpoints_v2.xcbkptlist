@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E079659C-A7BA-4A73-98E1-E48A5A41A6C5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9729F644-C04C-451B-AD5F-A418829A4D93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Size Classes/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "detectDevices()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4D4B9AA-9597-461D-BB9F-348D718C02B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Size Classes/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "detectDevices()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F4D4B9AA-9597-461D-BB9F-348D718C02B0 - a2637c2d5599c5d1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Size_Classes.ViewController.detectDevices() -&gt; ()"
+                  moduleName = "Size Classes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Size%20Classes/Size%20Classes/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "231">
+               </Location>
+               <Location
+                  uuid = "F4D4B9AA-9597-461D-BB9F-348D718C02B0 - a2637c2d5599c5d1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Size_Classes.ViewController.detectDevices() -&gt; ()"
+                  moduleName = "Size Classes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Size%20Classes/Size%20Classes/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "463">
+               </Location>
+               <Location
+                  uuid = "F4D4B9AA-9597-461D-BB9F-348D718C02B0 - a2637c2d5599c5d1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Size_Classes.ViewController.detectDevices() -&gt; ()"
+                  moduleName = "Size Classes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Size%20Classes/Size%20Classes/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "701">
+               </Location>
+               <Location
+                  uuid = "F4D4B9AA-9597-461D-BB9F-348D718C02B0 - a2637c2d5599c5d1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Size_Classes.ViewController.detectDevices() -&gt; ()"
+                  moduleName = "Size Classes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Size%20Classes/Size%20Classes/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "931">
+               </Location>
+               <Location
+                  uuid = "F4D4B9AA-9597-461D-BB9F-348D718C02B0 - a2637c2d5599c5d1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Size_Classes.ViewController.detectDevices() -&gt; ()"
+                  moduleName = "Size Classes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Size%20Classes/Size%20Classes/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "957">
+               </Location>
+               <Location
+                  uuid = "F4D4B9AA-9597-461D-BB9F-348D718C02B0 - a2637c2d5599c5d1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Size_Classes.ViewController.detectDevices() -&gt; ()"
+                  moduleName = "Size Classes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/adwaitb/Documents/Adwait%20Barkale/Training%20Part/Size%20Classes/Size%20Classes/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "1189">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
